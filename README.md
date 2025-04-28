@@ -78,7 +78,7 @@ Identifying and qualifying high-value leads manually is time-consuming, resource
 
 ---
 
-## Business Impact (Summary)
+## Business Impact
 
 - **Accelerated lead qualification**: up to 70% faster
 - **Reduced acquisition time**: from months to weeks
